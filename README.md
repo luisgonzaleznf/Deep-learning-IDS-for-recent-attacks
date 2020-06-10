@@ -14,3 +14,7 @@ https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Dataset
 
 # CSE-CIC-IDS-2018
 https://www.unb.ca/cic/datasets/ids-2018.html
+
+Una vez descargados, actualizar la variable 'path' al directorio donde se haya realizado la descarga.
+
+Finalizado esto, el código está listo para ejecutar, sobre python 3.7, en Jupyter o Google Colab, aunque se recomienda optar por Google Colab, que ya incluye las bibliotecas necesarias para ejecutar el código completo.
